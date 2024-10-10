@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <div>
       <Cabecalho/>
-      <Contador/>
+      {/* <Contador/> */}
       <CardList/>
       <Footer/>
-      <Form/>
+      {/* <Form/> */}
     </div>
   );
 }

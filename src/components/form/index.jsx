@@ -1,7 +1,7 @@
 'use client'
 export default function Form(){
 
-    const [nome, setNome] = useState("Vitor")
+    const [nome, setNome] = useState("Vitor");
 
     return(
         <div>
